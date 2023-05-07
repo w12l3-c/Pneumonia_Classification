@@ -1,6 +1,10 @@
 # Pneumonia_Classification
 Classifying MRI Lung Images
 
+<a href="[https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb](https://colab.research.google.com/drive/1c2BaZU9N5aJUQL6D3tsdZqtM5Ed_g1aj?usp=sharing)">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 This project is using a popular kaggle dataset that contains patient MRI images of their lungs and the goal is to detect whether it is a healthy lung or it is an viral/bacterial infection(pneumonia).
 
 This is written in PyTorch using Transfer learning based on Google's Vision Transformer (ViT).
