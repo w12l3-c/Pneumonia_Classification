@@ -1,7 +1,7 @@
 # Pneumonia_Classification
 Classifying MRI Lung Images
 
-<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+<a href="https://colab.research.google.com/drive/1c2BaZU9N5aJUQL6D3tsdZqtM5Ed_g1aj?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
